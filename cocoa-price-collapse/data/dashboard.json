@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "theme": "Cocoa Price Collapse: Retail Pricing Resilience & Recovery Scenarios",
+    "theme_hash": "cocoa-2026",
+    "generated_at": "2026-04-16T00:00:00Z",
+    "lookback_days": 90,
+    "search_frequency": "week"
+  },
+  "stage1": {
+    "theme_summary": "Cocoa futures have collapsed more than 70% from their late-2024 peak of ~$12,931/tonne to roughly $3,100/tonne in early 2026, driven by a sharp reversal in West African supply conditions and a collapse in grinding demand. The crisis exposes a critical asymmetry: manufacturers who hedged forward at elevated prices \u2014 many locking in at $6,000\u2013$8,000/tonne \u2014 face a painful mismatch where spot beans are now far cheaper than their contracted costs, yet retail chocolate prices remain elevated. Consumers are balking \u2014 retail chocolate volumes in Europe fell 6% and in the US fell 4% in the six months to January 2026 \u2014 but manufacturers are reluctant to lower shelf prices while they still absorb losses on high-cost hedges. The key investment question is which companies have the pricing power, hedge structure, or operational flexibility to protect margins during this awkward transition, and which face lasting brand erosion from shrinkflation tactics.",
+    "search_topics": [
+      "cocoa futures price decline crash 2025",
+      "cocoa bean spot price 2026 outlook",
+      "chocolate manufacturer input cost margin",
+      "Hershey cocoa hedging forward contracts",
+      "Mondelez cocoa exposure margin recovery",
+      "Barry Callebaut cocoa inventory earnings",
+      "Lindt cocoa pricing strategy resilience",
+      "Nestle chocolate pricing strategy 2026",
+      "West Africa cocoa surplus Ivory Coast Ghana",
+      "chocolate retail price consumer demand elasticity",
+      "confectionery pricing power consumer staples",
+      "cocoa forward purchasing hedging risk 2026",
+      "chocolate shrinkflation consumer backlash",
+      "cocoa grinding demand grindings 2025 decline",
+      "confectionery volume recovery 2027 scenarios",
+      "Morgan Stanley Mondelez top pick cocoa deflation",
+      "chocolate premium brand consumer shift",
+      "Barry Callebaut volume outlook fiscal 2026",
+      "Hershey gross margin recovery 2026",
+      "Delfi cocoa margin recovery Asia"
+    ],
+    "impact_direction_map": {
+      "Cocoa Futures Collapse": "Prices fell from $12,931 peak to ~$3,100/t by March 2026 \u2014 a >70% decline \u2014 driven by West Africa crop recovery and collapsed grinding demand; ICE inventories at 8.25-month highs.",
+      "Hedging Lag (Negative for Margins)": "Most manufacturers locked in 2025\u201326 coverage at $6,000\u2013$8,000/t; even with spot prices at $3,100, contracted costs remain elevated, delaying cost benefits until late 2026 or 2027.",
+      "Retail Price Stickiness (Near-Term Positive)": "Chocolate shelf prices continued rising 14.4% YoY in early 2026; branded manufacturers are recouping prior margin losses rather than passing savings through, providing a temporary earnings buffer.",
+      "Volume Erosion (Negative for Revenues)": "Global grindings fell for 10+ straight quarters; retail chocolate volumes down 4\u20136% across US and Europe; consumers trading down to private label or reducing frequency of purchase.",
+      "Premium Brand Resilience": "High-end chocolatiers (Lindt, premium segments) face lower volume sensitivity; consumers shifting from mass-market to premium when buying, creating a bifurcation of demand.",
+      "Margin Recovery Timeline (H2 2026\u20132027)": "Morgan Stanley, BofA, and Piper Sandler see a significant earnings inflection starting H2 2026 for MDLZ, with full benefit materializing in 2027 as high-cost hedges roll off.",
+      "West Africa Structural Risk": "Ghana cut farmer pay ~30%, Ivory Coast cut by 57% for mid-crop 2026; this risks under-investment in farms and a potential supply rebound reversal in 2027\u201328."
+    }
+  },
+  "kpi": {
+    "wti_price": "\u221275%",
+    "wti_change": "vs $12,931 peak (Dec 2024)",
+    "macro_indicator_1": "Cocoa Spot Price",
+    "macro_indicator_1_value": "~$3,100",
+    "macro_indicator_2": "Price Drop from Peak",
+    "macro_indicator_2_value": "\u221275%",
+    "macro_indicator_3": "Retail Price Change",
+    "macro_indicator_3_value": "+14.4%"
+  },
+  "companies": [
+    {
+      "ticker": "MDLZ",
+      "name": "Mondelez International",
+      "sector": "Consumer Staples",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "High",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Morgan Stanley's top pick. Hedges on 2026 cocoa are at elevated levels, so full cost relief arrives in H2 2026 and accelerates into 2027. Strong Oreo/Cadbury/Milka brand portfolio supports pricing power; 31 Buy ratings vs",
+      "catalyst": "Q1 2026 earnings (Apr 28) \u2014 first read on cocoa cost delta; margin inflection guidance for H2",
+      "risk": "Consumer volumes still down; geopolitical tariff exposure; hedged at ~$6,000/t for much of 2026 limits near-term upside",
+      "source_citations": []
+    },
+    {
+      "ticker": "HSY",
+      "name": "The Hershey Company",
+      "sector": "Consumer Staples",
+      "side": "short",
+      "raw_impact_score": 0.0,
+      "exposure": 90,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Gross margins fell from a typical 45% to just 37% in 2024\u201325, with net profits down nearly 2/3. Hedging program locked in prices below 2025 market but still expects cocoa inflation in 2026. Continues 9%",
+      "catalyst": "Q1 2026 earnings Apr 30 \u2014 watch for cocoa cost outlook update and any indication of pricing moderation",
+      "risk": "Tariff headwinds (~$15\u201320M Q2 2025), US brand concentration, further volume erosion if prices not reduced",
+      "source_citations": []
+    },
+    {
+      "ticker": "BARN",
+      "name": "Barry Callebaut AG",
+      "sector": "Consumer Staples",
+      "side": "short",
+      "raw_impact_score": 0.0,
+      "exposure": 50,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "The world's largest bulk chocolate maker is caught between falling bean prices and customers not yet booking forward. Cocoa division volumes fell 22% in Q1 FY26. Working assumption of \u00a35,000/tonne for FY26. New CEO Hein",
+      "catalyst": "Focus for Growth investor day June 2026 \u2014 key update on restructuring and volume recovery",
+      "risk": "Service level issues below 80% in some segments; Gourmet margin pressure from price list misalignment; overcapacity in industry",
+      "source_citations": []
+    },
+    {
+      "ticker": "LISN",
+      "name": "Lindt & Spr\u00fcngli AG",
+      "sector": "Consumer Staples",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "High",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "BofA upgraded to Buy citing 'superior' asset quality and pricing power. Organic sales growth guided 4\u20136% for 2025. Premium positioning means lower volume elasticity \u2014 consumers who buy Lindt are less price-sensitive. Cocoa deflation will",
+      "catalyst": "Full year 2026 results \u2014 margin upside from cocoa deflation starting to flow through",
+      "risk": "Covered for 2026 cocoa at elevated prices; margin benefit materializes mainly in 2027; Middle East conflict raises input and consumer spending risk",
+      "source_citations": []
+    },
+    {
+      "ticker": "DELFI SP",
+      "name": "Delfi Ltd.",
+      "sector": "Consumer Staples",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "High",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "UOB Kay Hian raised target 50% to S$1.68 (BUY). Shorter product cycles enable faster pass-through of lower cocoa costs. Gross margins compressed to 26.5% in 2025 vs 34\u201335% historical; recovery to follow as hedges roll.",
+      "catalyst": "2026 half-year results; rupiah stabilization would accelerate margin recovery",
+      "risk": "Rupiah depreciation (2.3% YTD) offsets cocoa deflation; competitive intensity in ASEAN markets",
+      "source_citations": []
+    },
+    {
+      "ticker": "TR",
+      "name": "Tootsie Roll Industries",
+      "sector": "Consumer Staples",
+      "side": "short",
+      "raw_impact_score": 0.0,
+      "exposure": 50,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Legacy supply contracts at lower prices expired in early 2025, replacing them with significantly elevated cocoa contracts. Company reports direct cost pressure from cocoa/chocolate ingredients and expects this to continue into 2026. Limited hedging sophistication",
+      "catalyst": "Q1 2026 earnings \u2014 key read on whether new supply contracts begin to reflect lower spot prices",
+      "risk": "Smaller scale limits hedging flexibility; brand portfolio less premium, more price-sensitive consumer",
+      "source_citations": []
+    },
+    {
+      "ticker": "RMCF",
+      "name": "Rocky Mountain Chocolate Factory",
+      "sector": "Consumer Staples",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Locked in ~20% of production at $5,000/t vs $8,000 ceiling strategy; a significant improvement. Chocolate represents a substantial part of raw material cost. Expects margin tailwind as cocoa prices fall through to chocolate wholesale prices.",
+      "catalyst": "Next earnings call \u2014 update on cocoa locking strategy and margin trajectory",
+      "risk": "Franchise model limits direct control over retail pricing; small scale",
+      "source_citations": []
+    },
+    {
+      "ticker": "ULKER",
+      "name": "\u00dclker Bisk\u00fcvi",
+      "sector": "Consumer Staples",
+      "side": "short",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Turkish confectionery giant faced multi-decade high cocoa prices combined with sugar and wheat volatility. Implemented selective pricing and hedging but is mindful of consumer competitiveness. Turkish market dynamics and lira risk compound the cocoa exposure.",
+      "catalyst": "Q2 2026 results \u2014 first clear read on hedged cost rolloff vs. retail pricing sustainability",
+      "risk": "Lira depreciation amplifies USD-denominated cocoa cost; inflation environment limits pricing power",
+      "source_citations": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jan 2023",
+      "value": 2800.0,
+      "event": "Cocoa near historical avg ~$2,800/t"
+    },
+    {
+      "date": "Jun 2023",
+      "value": 3200.0,
+      "event": "None"
+    },
+    {
+      "date": "Dec 2023",
+      "value": 4200.0,
+      "event": "Supply deficit fears begin to build"
+    },
+    {
+      "date": "Mar 2024",
+      "value": 7500.0,
+      "event": "El Ni\u00f1o crop failure fears accelerate rally"
+    },
+    {
+      "date": "Jun 2024",
+      "value": 9500.0,
+      "event": "None"
+    },
+    {
+      "date": "Sep 2024",
+      "value": 10500.0,
+      "event": "Speculators pile in; industry exits gross shorts"
+    },
+    {
+      "date": "Dec 2024",
+      "value": 12931.0,
+      "event": "All-time high: $12,931/tonne (ICE futures)"
+    },
+    {
+      "date": "Mar 2025",
+      "value": 9000.0,
+      "event": "Prices drop 30% as demand destruction hits"
+    },
+    {
+      "date": "Jun 2025",
+      "value": 8500.0,
+      "event": "HSY Q1 sales fall 14%; MDLZ Q1 misses"
+    },
+    {
+      "date": "Aug 2025",
+      "value": 7500.0,
+      "event": "Lindt cuts margin guidance; BC cuts volume guidance 2nd time"
+    },
+    {
+      "date": "Oct 2025",
+      "value": 5200.0,
+      "event": "Cocoa hits 20-month low; 2025-26 harvest surplus confirmed"
+    },
+    {
+      "date": "Nov 2025",
+      "value": 4924.0,
+      "event": "November low; confectionery basket +14% YTD"
+    },
+    {
+      "date": "Jan 2026",
+      "value": 4200.0,
+      "event": "Grindings data collapses: EU \u22126%, NA \u22124%, Asia \u22129%"
+    },
+    {
+      "date": "Feb 2026",
+      "value": 3200.0,
+      "event": "Cocoa near 3-year lows; Ivory Coast/Ghana cut farmer pay"
+    },
+    {
+      "date": "Mar 2026",
+      "value": 3100.0,
+      "event": "Morgan Stanley: MDLZ 'top pick'; cocoa \u221275% from peak"
+    },
+    {
+      "date": "Apr 2026",
+      "value": 3300.0,
+      "event": "Drought concerns in West Africa spark mild bounce; BC Q2 earnings"
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "Base Case: Gradual Margin Recovery (H2 2026 \u2192 2027)",
+      "probability": 55,
+      "indicator_target": 0.0,
+      "description": "Cocoa stabilizes in the $3,000\u2013$4,000/t range. High-cost 2025\u201326 hedges roll off through mid-2026, and manufacturers begin to see meaningful gross margin improvement in Q3\u2013Q4 2026. Retail shelf prices decline modestly (2\u20135%) or pack sizes increase, supporting a partial volume recovery. Morgan Stanley's MDLZ target of $70 is achievable; Lindt sees margin upside in 2027. Consumer volume trends stabilize. Barry Callebaut returns to growth in H2 FY26.",
+      "sector_returns": {
+        "MDLZ": 18.0,
+        "HSY": 8.0,
+        "Lindt": 14.0,
+        "Barry C": 12.0,
+        "Delfi": 22.0,
+        "Tootsie": 5.0
+      }
+    },
+    {
+      "name": "Bull Case: Faster Pass-Through + Volume Recovery",
+      "probability": 25,
+      "indicator_target": 0.0,
+      "description": "Cocoa prices stay subdued at $2,500\u2013$3,000/t through year-end. Manufacturers accelerate price rollbacks or re-sizing to stimulate volume. Consumer demand rebounds strongly from the trough \u2014 especially in Asian markets. Hershey's $100M+ brand investment (Reese's big launch) drives outsized US volume recovery. Gross margins expand by 500\u2013800bps ahead of consensus. Premium brands (Lindt, RMCF) benefit most. Ferrero's $100M 'Go All In' promotion signals category-wide confidence.",
+      "sector_returns": {
+        "MDLZ": 32.0,
+        "HSY": 20.0,
+        "Lindt": 28.0,
+        "Barry C": 25.0,
+        "Delfi": 38.0,
+        "Tootsie": 12.0
+      }
+    },
+    {
+      "name": "Bear Case: Prolonged Margin Compression + Trade Down",
+      "probability": 20,
+      "indicator_target": 0.0,
+      "description": "Drought concerns in West Africa (April 2026 early signals) materialize into a supply shock that re-inflates cocoa prices back above $5,000\u2013$6,000/t by late 2026. Manufacturers who have already forward-sold at low retail prices face a double squeeze. Consumer confidence deteriorates amid tariff and macro headwinds, accelerating trade-down to private label chocolate. Volume erosion deepens to 8\u201310% YoY. Barry Callebaut's \u00a35,000 price assumption looks optimistic. Hershey's hedging provides only partial protection.",
+      "sector_returns": {
+        "MDLZ": -10.0,
+        "HSY": -18.0,
+        "Lindt": -5.0,
+        "Barry C": -22.0,
+        "Delfi": -8.0,
+        "Tootsie": -15.0
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "doc_id": "1460CE286294817C37BBE31C611F0A40",
+      "headline": "Easter eggs stay pricey even as cocoa prices plunge",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-03",
+      "cnum": 0,
+      "chunk_text": "Consumers are paying more for chocolate eggs this Easter even as global cocoa prices tumble, as manufacturers try to recoup losses from a recent surge in the price of the raw material. Prices for cocoa in New York and London have plunged more than 70 per cent from record highs in 2024. But cheaper cocoa has yet to flow through to chocolate prices in the shops, giving manufacturers an opportunity to take advantage of Easter demand to recoup some of the production costs sustained when the raw material price was higher. There was a 'clear stimulus' for manufacturers not to cut prices as input costs fall, given that their margins had previously been squeezed while cocoa prices were rising. Retail sales of chocolate in the six months to January were down 6% in Europe and 4% in the US.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "Easter chocolate retail pricing consumers",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "1E5E9BC9AC4C1B423A8481A89B52D0AA",
+      "headline": "Chocolate lovers shift to premium brands as cocoa prices swing",
+      "source_name": "Benzinga",
+      "source_url": "",
+      "chunk_timestamp": "2026-03-26",
+      "cnum": 0,
+      "chunk_text": "Cocoa futures prices have fallen dramatically in recent weeks, to roughly $3,100 in March 2026. Last fall, a number of chocolate manufacturers hedged at around the $6,000 mark, half the all-time high set in late 2024. That hedge, while high in retrospect, leaves companies little room to take pricing measures, and even those that did not hedge appear unwilling to reduce retail prices. Chocolate prices on U.S. store shelves continued to surge into early 2026, with Datasembly reporting a 14.4% increase in the year's early weeks compared to the same period in 2025. Consumers are increasingly reaching for premium chocolates \u2014 the trend reflects heightened consumer interest in high quality, clean labels, satiation and a taste for indulgence.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "chocolate retail price consumer demand",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "6E2ECF3850D1128551379A80F064720D",
+      "headline": "Mondelez seen as 'Top Pick' as falling cocoa prices signal 2026 recovery \u2014 Morgan Stanley",
+      "source_name": "MT Newswires",
+      "source_url": "",
+      "chunk_timestamp": "2026-03-16",
+      "cnum": 0,
+      "chunk_text": "Mondelez International (MDLZ) is being viewed as a 'top pick' as declining cocoa prices are expected to drive a significant earnings and margin recovery beginning in H2 of 2026 and accelerating into 2027, Morgan Stanley said in a report Monday. Cocoa prices have fallen about 75% from their peak and roughly 20% since Mondelez reported Q4 2025 results, improving 'visibility' into stronger margins and above-consensus earnings growth in 2027. The investment bank raised its 2027 'base and bull case' estimates and reiterated an overweight rating on Mondelez, while raising its price target to $70 from $66. Recent stock underperformance tied partly to 'geopolitical' concerns and pricing pressures has created a 'buying opportunity.'",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "cocoa price recovery scenarios 2026 2027 outlook",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "07409E7583F6F2EEA7230575284B0D27",
+      "headline": "For Easter-egg makers, it is chocolate tomorrow",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-04",
+      "cnum": 0,
+      "chunk_text": "Hershey's gross margins, typically about 45%, shrank to 37% last year. Net profits slumped almost two-thirds. The nub is that cocoa prices take time to feed through the chain; manufacturers largely buy cocoa through forward contracts. Barry Callebaut is basing its assumptions on a cocoa price of \u00a35,000. It may also be that chocolatiers' sensitivity to input prices has declined: they may be disinclined to revert once they have switched up recipes to lower cocoa content. Lindt, home of the eponymous gold bunny, has trimmed its expectations for this year's organic sales growth to between 4 and 6 per cent. Barry Callebaut, noting a 'still pressured' first half, expects a volume decrease of about 5% this year.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "chocolate manufacturer cocoa input cost margin",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "5B53CB0092E240630B5CC825307DDE59",
+      "headline": "Barry Callebaut AG: Q2 2026 Earnings Call",
+      "source_name": "Factset Transcripts",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-16",
+      "cnum": 0,
+      "chunk_text": "In the first few months, we have seen very favorable margin environment for cocoa. In half year one, this helped to offset some headwinds in chocolate. Looking ahead, we expect this cocoa margin tailwind to normalize in the second half as market conditions have become less favorable. Demand has been down for some time and given the high prices that have been put into the market in the past, this has resulted in some industry overcapacity, which is intensifying competition with more aggressive pricing and commercial actions. Customers are therefore also willing to book further in advance \u2014 these are longer positions. Ferrero launched their Go All In promotion from April through July backed by significant $100 million investment. Hershey also making significant media investments this year with a very big launch around Reese's and Hershey \u2014 a first launch of this magnitude for them in several years.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "Barry Callebaut retail price consumer demand",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "9D9636F67F49D732C35D6345C6928132",
+      "headline": "The Hershey Co.: Q2 2025 Earnings Call \u2014 Pre-Recorded",
+      "source_name": "Factset Transcripts",
+      "source_url": "",
+      "chunk_timestamp": "2025-07-30",
+      "cnum": 0,
+      "chunk_text": "Though cocoa prices have retreated year-to-date, they remain volatile and significantly elevated versus history. Based on what we know today, we continue to anticipate inflation in our cocoa input costs year-over-year in 2026. This is due to our robust hedging practices which locked in 2025 prices well below the market, modest improvement in our cost outlook for the year through execution of innovative sourcing and hedging strategies, and forward visibility from hedges we have begun to place for 2026. Our flexible hedging strategies would allow us to participate if cocoa markets retreat further in 2025, and we continue to use similar strategies in our approach to 2026 hedges.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "Hershey cocoa hedging forward contracts",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "A4511E770C093051ACF696261F4311CB",
+      "headline": "Cocoa price tumbles to 20-month low as record rally ends",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-08",
+      "cnum": 0,
+      "chunk_text": "The sell-off marks a sharp reversal after a supply shock in 2022 in Ivory Coast and Ghana, which together produce about 60% of the world's cocoa. Dry weather, disease and years of under-investment by farmers who were unable to afford fertiliser or replace ageing trees sent futures prices soaring. Forecasters expect the 2025-26 harvest, which began on October 1, to produce a surplus of supply over global demand. This surplus was 'not because we're now producing more cocoa than we were producing back in those years where we had a deficit. It's because demand has fallen.' Global grindings had fallen by about 500,000 tons since their peak in 2022.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "cocoa futures price decline crash 2025",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "AA606AC60CC380D99029E17AD6178016",
+      "headline": "Falling Cocoa Prices Offer Sweet Relief for Chocolate Stocks Ahead of Halloween",
+      "source_name": "PubT / eToro",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-27",
+      "cnum": 0,
+      "chunk_text": "Cocoa prices down 51% this year after record highs, while chocolate producers rise 14% as margins recover. Five-year data show cocoa's boom weighed on confectionery shares, now poised for rebound as cocoa prices ease. Just in time for Halloween, chocolate makers are catching a break. After years of record input costs, cocoa prices have tumbled 51% this year. The relief has helped the 'confectionery basket' of Lindt, Hershey, Mondelez and Nestl\u00e9 climb 14% year to date, its best run since 2021.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "cocoa futures price decline crash 2025",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "903DB08AB5CC6E062413A1B1FD22DAEE",
+      "headline": "Drought Concerns in West Africa Boost Cocoa Prices",
+      "source_name": "Yahoo! Finance",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-01",
+      "cnum": 0,
+      "chunk_text": "Cocoa prices were under pressure over the past three weeks, posting 3-week lows last Thursday amid expectations of a bumper West African cocoa crop. ICE cocoa inventories rose to an 8.25-month high of 2,362,668 bags. Last month, Ghana cut the official price it pays its cocoa farmers by nearly 30% for supplies for the 2025/26 growing season, and the Ivory Coast also said it would cut cocoa farmer pay by 57% that would kick in for the mid-crop harvest. The Ivory Coast and Ghana produce more than half of the world's cocoa.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "West Africa cocoa harvest surplus supply",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "F03B62DCEFB3AE3D73A089E275093F91",
+      "headline": "UOB Kay Hian: Delfi \u2014 Starting To Look Sweet On Cocoa Price Relief",
+      "source_name": "UOB Kay Hian Securities",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-14",
+      "cnum": 0,
+      "chunk_text": "Cocoa prices have declined sharply to US$3,200\u20133,300/tonne as of April 2026, down more than 60% from the 2024\u201325 peaks of US$12,500\u201312,900/tonne. This marks a clear turning point from the elevated cost environment that compressed Delfi's gross margin to 26.5% in 2025 (2024: 27.4%). Gross margins declined from 34\u201335% in 2016\u20132018 to 2025 trough levels. With costs now correcting sharply, we expect a lagged but meaningful recovery in gross margins in 2026\u201327. Compared to larger multinational peers, Delfi's shorter product cycle allows for quicker pass-through of lower input costs.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "cocoa price recovery scenarios 2026 2027",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "C8A6CDFE5A6C5F667B0B1D5C0D2B19C3",
+      "headline": "Israeli start-up makes world's first lab-grown chocolate bar",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-15",
+      "cnum": 0,
+      "chunk_text": "Cocoa prices surged in 2024 and 2025 from less than $3,000 a tonne to a peak of $12,000, squeezing chocolate makers' margins. Although they have since eased amid improved yields and declining consumer demand in Europe and the US, chocolate and confectionery companies have poured funding into finding alternative ingredients for sweet treats. US-based Mondelez is an investor in Celleste, while Swiss rival Lindt & Spr\u00fcngli backs local cell-based cocoa start-up Food Brewer. Cargill has partnered with Voyage Foods to distribute cocoa-free chocolate made from ingredients such as grape seeds and sunflower protein.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "chocolate manufacturer alternative ingredients innovation",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "ACB1C6489A1569AF7B52EF86F182C8BC",
+      "headline": "Another year of uncertainty for food and beverage manufacturers",
+      "source_name": "Benzinga / FCC",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-01",
+      "cnum": 0,
+      "chunk_text": "Looking ahead to 2026, prices for key inputs including cattle, hogs, canola and cocoa are expected to ease, providing some relief for processors. Gross margins for food and beverage manufacturers are forecast to improve in 2026 and 2027 following several years of pressure. In 2026, the improvement is expected to come mainly from easing raw material costs as sales growth remains modest and volumes continue to decline. As market conditions stabilize, margin gains in 2027 are expected to reflect a combination of improved cost conditions and stronger revenue growth.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "cocoa price recovery scenarios 2026 2027",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "9E3BBE47D0DDDCEA86A00FDBD575E2AF",
+      "headline": "Rotting cocoa and a commodity crash push West African farmers to seek other options",
+      "source_name": "News Break / AP",
+      "source_url": "",
+      "chunk_timestamp": "2026-03-08",
+      "cnum": 0,
+      "chunk_text": "Ivory Coast, the world's leading cocoa producer, had to purchase an excess supply of cocoa beans from farmers in January and this week slashed the price by more than half for 2026. A sharp fall in cocoa prices over the past year has left beans rotting in some West African warehouses, while global chocolate makers scramble for supplies and consumers seek their fix. Ghana authorities were not prepared for one at this scale. The dramatic reduction in farmer gate prices risks long-term under-investment in cocoa production that could sow the seeds of the next supply shock.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "West Africa cocoa surplus Ivory Coast Ghana",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "91541D62E1097BDB8CAB4473042640B2",
+      "headline": "Hershey's Chocolate Sales Rise on Pricing: Can Volumes Recover?",
+      "source_name": "Nasdaq",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-08",
+      "cnum": 0,
+      "chunk_text": "In the fourth quarter of 2025, North America Confectionery sales increased 5.3% to $2.48 billion, supported primarily by nearly 10 points of pricing contribution. However, volumes declined about 5 points. At the consolidated level, organic constant-currency sales rose 5.7%, driven by around 9% pricing, while overall volume and mix fell 3%. This dynamic underscores that recent growth has been largely price-driven rather than demand-led. Pricing actions taken in 2025 are still being absorbed, with some price-pack adjustments and retail resets continuing to flow through.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "Hershey cocoa hedging forward contracts 2025 2026",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "4A09BE7C50A8181E9720018BF7A3E409",
+      "headline": "BofA Lifts Lindt & Spr\u00fcngli to Buy on 'Impressive' FY25 Execution",
+      "source_name": "MT Newswires",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-13",
+      "cnum": 0,
+      "chunk_text": "Analysts highlighted Lindt's 'strong' second-half setup, including 'superior' asset quality and pricing power; a price-driven growth algorithm for 2026; and the potential for margin upside in 2027 from cocoa deflation. For 2026 and 2027, the EPS estimates were increased to 3,399 CHF and 3,885 CHF respectively. Bank of America upgraded Lindt to Buy, citing the company's resilience through the cocoa cost cycle and its strong premium brand positioning.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "Lindt cocoa pricing strategy margin recovery",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "BAAEE276DBA7B8D811001FB6F6C3546D",
+      "headline": "Will Cocoa Remain Above the Critical Long-Term Technical Support?",
+      "source_name": "Yahoo! Finance",
+      "source_url": "",
+      "chunk_timestamp": "2025-12-12",
+      "cnum": 0,
+      "chunk_text": "After reaching a December 2024 record high of $12,931 per ton, ICE cocoa futures ran out of upside steam. The monthly continuous contract chart shows the price plunge and steady decline that took cocoa futures to the most recent November 2025 low of $4,924 per ton, a 61.9% drop. At nearly $6,300 in December 2025, cocoa futures remain in a bearish trend despite the price recovery.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "cocoa futures price decline crash 2025",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "A03B747A81BE4DD996BDAF5609118D50",
+      "headline": "Mondelez International: Consumer Analyst Group of New York Conference",
+      "source_name": "Factset Transcripts",
+      "source_url": "",
+      "chunk_timestamp": "2026-02-17",
+      "cnum": 0,
+      "chunk_text": "In 2026, we will see the opposite effect. Cocoa input costs have declined rapidly, well below our covered cost, which will put pressure on our pricing strategy. At the same time, we expect more volume stability and increased investment. Looking ahead, we are confident that the critical investment and strategic choices we made throughout the past years have positioned us to return to on-algorithm performance in future years.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "Mondelez cocoa exposure margin recovery",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "36436F896D1A72BE7B74B21944D58CAA",
+      "headline": "Tootsie Roll Industries \u2014 Q3 2025 Earnings Release",
+      "source_name": "PubT",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-23",
+      "cnum": 0,
+      "chunk_text": "Many companies in the consumer products industry have increased selling prices in order to improve price realization in response to increasing input costs. We have implemented price increases as well during this period in order to mitigate certain input cost increases and recover our margin declines. Cocoa and chocolate markets continue at significantly elevated levels compared to historical prices in past years. We have experienced continuing higher costs for these ingredients during 2025 and expect this to continue in fourth quarter 2025 and into 2026 because many of our older supply contracts at lower prices expired in early 2025.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "chocolate manufacturer cocoa input cost margin",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "5FF8D921A882A4C275FB4FFD2B72FDBD",
+      "headline": "Delfi (DELFI SP): Starting To Look Sweet On Cocoa Price Relief; Raise TP 50%",
+      "source_name": "UOB Kay Hian",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-14",
+      "cnum": 0,
+      "chunk_text": "Cocoa prices have fallen over 60% yoy from 2024-25 peaks, signalling a reversal of cost pressures that drove 2025 margin compression. While hedging and forex remain near-term constraints, easing input costs and operating leverage should support recovery into 2026-27. Maintain BUY with a 50% higher target price of S$1.68.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "cocoa price recovery scenarios",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    }
+  ],
+  "taxonomy": [
+    {
+      "node_id": 1,
+      "name": "Cocoa Market Dynamics",
+      "description": "Supply/demand fundamentals driving the price collapse from $12,931 to ~$3,100/tonne",
+      "subnodes": [
+        {
+          "subnode_id": 1,
+          "name": "West African Supply Recovery",
+          "description": "Improved Ivory Coast and Ghana yields after El Ni\u00f1o; ICE inventories at 8.25-month highs; farmer pay cut 30\u201357%"
+        },
+        {
+          "subnode_id": 1,
+          "name": "Demand Destruction",
+          "description": "500,000 tonne decline in global grindings since 2022 peak; 10 straight quarters of declining grind data; consumers balking at high prices"
+        },
+        {
+          "subnode_id": 1,
+          "name": "Futures Market Structure",
+          "description": "Contango shifted; speculative positioning reversal; price discovery dislocated from fundamentals during 2024 peak"
+        }
+      ]
+    },
+    {
+      "node_id": 2,
+      "name": "Manufacturer Hedging Risk",
+      "description": "The locked-in cost structure that prevents immediate margin pass-through even as spot prices fall",
+      "subnodes": [
+        {
+          "subnode_id": 2,
+          "name": "Forward Contract Overhang",
+          "description": "Many manufacturers hedged 2026 at $6,000\u2013$8,000/t; benefit of $3,100 spot not felt until hedges roll off H2 2026+"
+        },
+        {
+          "subnode_id": 2,
+          "name": "Flexible vs. Rigid Hedge Structures",
+          "description": "Hershey's flexible program allows some downside participation; Barry Callebaut uses mark-to-market price lists with 3\u20136 month windows"
+        },
+        {
+          "subnode_id": 2,
+          "name": "Shorter Cycle Advantage",
+          "description": "Smaller players (Delfi, RMCF) with shorter product cycles can reset pricing faster than multinational peers"
+        }
+      ]
+    },
+    {
+      "node_id": 3,
+      "name": "Retail Pricing Resilience",
+      "description": "Companies' ability to sustain elevated shelf prices despite falling input costs",
+      "subnodes": [
+        {
+          "subnode_id": 3,
+          "name": "Brand Premium Power",
+          "description": "Lindt, Ferrero, Mondelez Milka/Cadbury command consumer loyalty; shrinkflation less visible than price cuts for premium SKUs"
+        },
+        {
+          "subnode_id": 3,
+          "name": "Margin Recovery Incentive",
+          "description": "Manufacturers prioritize recouping 2024\u201325 margin losses over consumer goodwill; ING economist notes 'clear stimulus' to not cut prices"
+        },
+        {
+          "subnode_id": 3,
+          "name": "Private Label Threat",
+          "description": "Own-brand chocolate (Tesco, M&S) gained share on lower prices and higher cocoa content; represents lasting competitive pressure"
+        }
+      ]
+    },
+    {
+      "node_id": 4,
+      "name": "Consumer Behavior Shifts",
+      "description": "How consumers are responding to elevated chocolate prices at retail",
+      "subnodes": [
+        {
+          "subnode_id": 4,
+          "name": "Premiumization Paradox",
+          "description": "Consumers buying less frequently but choosing premium when they do; Lindt and Ferrero benefit more than mass-market players"
+        },
+        {
+          "subnode_id": 4,
+          "name": "Volume Erosion",
+          "description": "Retail chocolate volumes down 4\u20136% YoY in US and Europe; shrinkflation (smaller eggs, less cocoa) driving consumer backlash"
+        },
+        {
+          "subnode_id": 4,
+          "name": "GLP-1 & Health Trends",
+          "description": "Lindt notes a counterintuitive demand bump from GLP-1 medicine users; smaller treats and portion-controlled indulgence trending"
+        }
+      ]
+    },
+    {
+      "node_id": 5,
+      "name": "Recovery & Innovation Pathways",
+      "description": "Strategic responses manufacturers are pursuing to rebuild margins and volumes",
+      "subnodes": [
+        {
+          "subnode_id": 5,
+          "name": "Brand Investment (Volume Recovery)",
+          "description": "Hershey's biggest Reese's/Hershey launch in years; Ferrero $100M 'Go All In' promotion; restoration of confidence in category"
+        },
+        {
+          "subnode_id": 5,
+          "name": "Cocoa Alternative R&D",
+          "description": "Mondelez invests in Celleste (lab-grown cocoa); Lindt backs Food Brewer; Barry Callebaut's ChoViva cocoa-free chocolate expanding to Japan/China"
+        },
+        {
+          "subnode_id": 5,
+          "name": "Margin Inflection Timeline",
+          "description": "Consensus: H2 2026 sees first margin tailwinds; 2027 is the year of full benefit as high-cost hedges fully roll off"
+        }
+      ]
+    }
+  ]
+}

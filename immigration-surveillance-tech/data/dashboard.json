@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "theme": "Immigration Enforcement Surveillance Tech: Repurposed Criminal Investigation Tools",
+    "theme_hash": "imm-surv-2026",
+    "generated_at": "2026-04-16T00:00:00Z",
+    "lookback_days": 90,
+    "search_frequency": "week"
+  },
+  "stage1": {
+    "theme_summary": "An FT investigation in December 2025 revealed that ICE has systematically repurposed technologies originally developed for criminal investigations \u2014 including facial recognition, iris scanners, phone-hacking spyware, license-plate readers, and commercial data-broker services \u2014 for mass immigration enforcement. With over $75 billion in additional ICE funding from Trump's 'One Big Beautiful Bill,' a wide array of contractors including Palantir, Thomson Reuters, Clearview AI, GEO Group, and Axon Enterprise have secured hundreds of millions in contracts. A DHS partial shutdown triggered by Senate Democrats demanding ICE reforms (Feb\u2013April 2026) and 2026 midterm election dynamics create substantial political and revenue risk for these contractors. Polling shows 65% of voters believe ICE has 'gone too far,' signaling potential political headwinds even within the Republican coalition. Companies face reputational pressure, employee unrest, shareholder resolutions, and legal exposure \u2014 all material investment risks under political scenario analysis.",
+    "search_topics": [
+      "ICE surveillance technology contracts federal",
+      "facial recognition immigration enforcement DHS",
+      "Palantir ImmigrationOS ICE contract",
+      "predictive policing immigration enforcement",
+      "Thomson Reuters CLEAR ICE data broker",
+      "Clearview AI federal government contract",
+      "GEO Group BI electronic monitoring ICE",
+      "Axon body camera DHS immigration",
+      "Congress DHS funding cuts immigration enforcement",
+      "midterm elections ICE reform immigration tech",
+      "immigration enforcement contractor backlash",
+      "DHS shutdown ICE funding lapse 2026",
+      "government surveillance civil liberties tech companies",
+      "immigration enforcement $22 billion contractor revenue",
+      "Paragon spyware ICE contract reactivated",
+      "LexisNexis Accurint ICE data subscription",
+      "blockchain analytics TRM Chainalysis ICE",
+      "employee backlash surveillance immigration companies",
+      "shareholder resolution Thomson Reuters ICE human rights",
+      "midterm elections immigration policy swing voters"
+    ],
+    "impact_direction_map": {
+      "Federal Contract Revenue (ICE/DHS)": "Directly positive under current administration \u2014 $75B+ in new ICE funding drives accelerating contract awards; companies with pre-existing relationships winning expanded deals.",
+      "Political/Regulatory Risk": "Highly elevated \u2014 DHS partial shutdown, Democratic demands for ICE reform, and midterm election dynamics create legislative risk to future contract renewals and scope.",
+      "Reputational & ESG Risk": "Significant and rising \u2014 employee protests, open letters, shareholder resolutions, whistleblower lawsuits, and civil liberties organization scrutiny directly impact ESG scores and institutional investor appetite.",
+      "Legal & Compliance Exposure": "Growing \u2014 Thomson Reuters whistleblower lawsuit, ACLU suits over warrant-free data purchases, potential FISA reform could restrict data sharing arrangements that underpin these contracts.",
+      "Technology Dual-Use Premium": "Companies with technologies originally built for criminal investigations command premium pricing as ICE repurposes them; first-mover advantage is real but creates path dependency risk.",
+      "Immigration Policy Feedback Loop": "Poll data (65% say ICE has gone too far, 51% would vote Democrat in 2026) suggests these companies are tied to a politically polarizing policy that could reverse sharply post-midterms.",
+      "Employee Retention & Culture Risk": "Palantir alumni open letters, employee departures, and Thomson Reuters firings signal talent and culture risk, especially in competitive tech hiring markets."
+    }
+  },
+  "kpi": {
+    "wti_price": "50+",
+    "wti_change": "Funding lapse Feb\u2013Apr 2026",
+    "macro_indicator_1": "ICE Contract Pipeline",
+    "macro_indicator_1_value": "$22B+",
+    "macro_indicator_2": "DHS Shutdown Days",
+    "macro_indicator_2_value": "50+",
+    "macro_indicator_3": "Public ICE Opposition",
+    "macro_indicator_3_value": "65%"
+  },
+  "companies": [
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies",
+      "sector": "Data / AI Software",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "ImmigrationOS \u2014 $29.8M ICE contract expansion (Apr 2025). USCIS platform contract Dec 2025. US Gov segment $730M Q4-2025. Core beneficiary but also highest reputational target.",
+      "catalyst": "Continued ICE funding reconciliation; AIP commercial wins offset political risk",
+      "risk": "Midterm losses \u2192 contract review; 'poisonous on campaign trail' per FT Mar 2026; ESG score declining (Laggard 41.3/100)",
+      "source_citations": []
+    },
+    {
+      "ticker": "TRI",
+      "name": "Thomson Reuters Corp.",
+      "sector": "Legal Data / Publishing",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 50,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "CLEAR tool sold to ICE for $4.8M investigative data subscription including license plate reader data (May 2025). Total DHS contract $22.8M. Whistleblower lawsuit filed Apr 2026.",
+      "catalyst": "ICE contract renewal decision by May 2026 is imminent key event",
+      "risk": "200+ employee protest letter; board rejected shareholder human rights resolution Apr 2026; firing of whistleblower creates legal exposure and reputational damage",
+      "source_citations": []
+    },
+    {
+      "ticker": "GEO",
+      "name": "The GEO Group",
+      "sector": "Detention / Electronic Monitoring",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 90,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "BI Incorporated: 21-year ISAP electronic monitoring contract renewed Oct 2025 (2yr); Skip tracing contract $121M Dec 2025. US Corrections & Detention $498M Q4-2025.",
+      "catalyst": "ICE non-detained docket expansion; deportation quota increases",
+      "risk": "Stock -39% YoY vs 52-week high; ESG Laggard (39.95/100); Democrat-controlled Congress could restructure detention/monitoring framework",
+      "source_citations": []
+    },
+    {
+      "ticker": "AXON",
+      "name": "Axon Enterprise",
+      "sector": "Law Enforcement Tech / Defense",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 50,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "DHS announced nationwide body camera expansion for ICE agents Feb 2026; Axon stock +4.4% same day. Lobbied FY26 DHS/DOJ Appropriations for body camera tech. Record revenue Q4-2025.",
+      "catalyst": "Nationwide ICE body camera rollout; drone de-escalation program expansion",
+      "risk": "Body camera mandate was also a Democratic demand \u2014 bipartisan support reduces but complicates political risk profile; facial recognition addition",
+      "source_citations": []
+    },
+    {
+      "ticker": "PRIVATE",
+      "name": "Clearview AI",
+      "sector": "Facial Recognition (Private)",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 90,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Largest-ever federal facial recognition contract: $9.2M ICE contract Sep 2025, $3.75M CBP contract Feb 2026. Active dialogue with Pentagon and DHS leadership. CEO change positioned company toward Trump agenda.",
+      "catalyst": "DOD contract expansion; multi-agency deployment",
+      "risk": "Multiple wrongful arrest incidents tied to misidentification; private company limits public investment exposure; EU and state-level bans could constrain US expansion",
+      "source_citations": []
+    },
+    {
+      "ticker": "MSI",
+      "name": "Motorola Solutions",
+      "sector": "Comms / Public Safety Tech",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 40,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Holds $19M in direct ICE contracts + $260M via reseller for Motorola radios and batteries for enforcement personnel. Existing public safety infrastructure benefits from DHS expansion.",
+      "catalyst": "Communications infrastructure for expanded enforcement operations",
+      "risk": "Lower political profile than AI/data companies; limited exposure relative to total revenue",
+      "source_citations": []
+    },
+    {
+      "ticker": "CAP.PA",
+      "name": "Capgemini SE",
+      "sector": "IT Consulting / Gov Services",
+      "side": "short",
+      "raw_impact_score": 0.0,
+      "exposure": 50,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "Unit sold Feb 2026 after ICE contract controversy. Signed ICE contract for digital and in-person surveillance to 'verify alien address information' \u2014 contract 'not currently being executed' per company after backlash.",
+      "catalyst": "Divestiture complete; European political pressure receding",
+      "risk": "Reputational damage in European markets; French Finance Minister criticism; precedent for other contractors exiting under political pressure",
+      "source_citations": []
+    },
+    {
+      "ticker": "PRIVATE2",
+      "name": "Paragon Solutions",
+      "sector": "Spyware (Private)",
+      "side": "long",
+      "raw_impact_score": 0.0,
+      "exposure": 75,
+      "conviction": "Medium",
+      "oil_beta": 0.0,
+      "rp_entity_id": "",
+      "company_type": "Public",
+      "price": null,
+      "market_cap": null,
+      "pe_ratio": null,
+      "perf_1m": null,
+      "perf_3m": null,
+      "analyst_consensus_rating": null,
+      "analyst_price_target": null,
+      "thesis": "$2M ICE spyware contract reactivated Sep 2025 after Biden-era hold. Phone-hacking software used in Italian spy scandal. ICE using for immigration enforcement.",
+      "catalyst": "Expanded contract scope under Trump administration",
+      "risk": "Congressional scrutiny; private company; EO-level reversal possible; Italian diplomatic fallout",
+      "source_citations": []
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jan 2025",
+      "value": 75.0,
+      "event": "One Big Beautiful Bill: $75B ICE funding approved"
+    },
+    {
+      "date": "Feb 2025",
+      "value": 78.0,
+      "event": "None"
+    },
+    {
+      "date": "Mar 2025",
+      "value": 80.0,
+      "event": "None"
+    },
+    {
+      "date": "Apr 2025",
+      "value": 85.0,
+      "event": "Palantir $29.8M ImmigrationOS contract signed"
+    },
+    {
+      "date": "May 2025",
+      "value": 88.0,
+      "event": "Thomson Reuters $4.8M CLEAR/LPR subscription renewed"
+    },
+    {
+      "date": "Jun 2025",
+      "value": 90.0,
+      "event": "Palantir ICE backlash; employee open letter; Stephen Miller stake disclosed"
+    },
+    {
+      "date": "Jul 2025",
+      "value": 92.0,
+      "event": "None"
+    },
+    {
+      "date": "Aug 2025",
+      "value": 93.0,
+      "event": "None"
+    },
+    {
+      "date": "Sep 2025",
+      "value": 100.0,
+      "event": "$1.4B in ICE tech contracts \u2014 18-year record. Clearview $9.2M, GEO ISAP renewed, Paragon reactivated"
+    },
+    {
+      "date": "Oct 2025",
+      "value": 98.0,
+      "event": "WaPo: ICE deploying iris scanners, facial recognition, phone-hacking software, location data"
+    },
+    {
+      "date": "Nov 2025",
+      "value": 95.0,
+      "event": "None"
+    },
+    {
+      "date": "Dec 2025",
+      "value": 96.0,
+      "event": "FT investigation: ICE repurposing criminal investigation tools. GEO skip-trace $121M. Palantir USCIS contract"
+    },
+    {
+      "date": "Jan 2026",
+      "value": 90.0,
+      "event": "Alex Pretti killed by ICE agents in Minneapolis; Senate Democrats block DHS funding"
+    },
+    {
+      "date": "Feb 2026",
+      "value": 72.0,
+      "event": "DHS enters partial shutdown. Axon +4.4% on body camera announcement. Capgemini sells ICE unit. CBP-Clearview deal"
+    },
+    {
+      "date": "Mar 2026",
+      "value": 68.0,
+      "event": "DHS shutdown day 40. Palantir 'poisonous on campaign trail' per FT. Thomson Reuters 200+ employee letter"
+    },
+    {
+      "date": "Apr 2026",
+      "value": 65.0,
+      "event": "Senate passes DHS bill. Thomson Reuters whistleblower lawsuit. Shareholder resolution filed. ICE funding via reconciliation debated"
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "\ud83d\udcc8 Scenario A: Unfettered Continuation (Base/Bull)",
+      "probability": 40,
+      "indicator_target": 0.0,
+      "description": "Republicans maintain House and Senate in November 2026 midterms, or do so narrowly enough to continue ICE funding via budget reconciliation. The $75B pipeline continues to be deployed. ICE procurement accelerates \u2014 Q3 2026 onwards sees another surge in surveillance tech contracts as agencies spend their multi-year allocations. Palantir ImmigrationOS expands to full deployment. Thomson Reuters renews its CLEAR contract. Clearview secures DoD contracts. GEO's ISAP contract extends. Political noise continues but contract revenues are protected by multi-year appropriations. Companies in this space see 15\u201330% revenue tailwinds from federal government segment.",
+      "sector_returns": {
+        "Palantir (PLTR)": 35.0,
+        "GEO Group (GEO)": 25.0,
+        "Axon (AXON)": 20.0,
+        "Thomson Reuters (TRI)": 10.0,
+        "Motorola (MSI)": 8.0,
+        "Capgemini (CAP)": -5.0
+      }
+    },
+    {
+      "name": "\u2696\ufe0f Scenario B: Congressional Pressure / Partial Reform (Base)",
+      "probability": 40,
+      "indicator_target": 0.0,
+      "description": "Democrats gain seats in November 2026 midterms (current polling shows 51% would vote Democrat) but fall short of a Senate majority. DHS funding continues but with new accountability measures: judicial warrant requirements for certain data pulls, body camera mandates, ICE detention bed caps, and inspector general oversight. Thomson Reuters faces contract renegotiation. Facial recognition use restricted in certain jurisdictions. Palantir retains core ImmigrationOS but faces scope limits. GEO's monitoring contracts continue but at reduced scale as non-detained docket reforms change operations. Companies with dual-use products (Axon, Motorola) are less impacted. ESG pressure raises cost of capital for most exposed names.",
+      "sector_returns": {
+        "Palantir (PLTR)": 5.0,
+        "GEO Group (GEO)": -15.0,
+        "Axon (AXON)": 12.0,
+        "Thomson Reuters (TRI)": -8.0,
+        "Motorola (MSI)": 5.0,
+        "Capgemini (CAP)": 0.0
+      }
+    },
+    {
+      "name": "\ud83d\udd34 Scenario C: Democratic Majority / DHS Funding Overhaul (Bear)",
+      "probability": 20,
+      "indicator_target": 0.0,
+      "description": "Democrats win House and Senate in November 2026, leveraging immigration enforcement excesses as the defining issue. New Congress conditions DHS appropriations on prohibiting warrantless data purchases, banning the use of facial recognition for civil immigration enforcement, restructuring ICE's surveillance procurement, and mandating human rights impact assessments for contractors. Thomson Reuters CLEAR contract terminated. Clearview AI contracts rescinded. Palantir ImmigrationOS defunded. GEO's skip-tracing and monitoring programs restructured. Congress also subpoenas contractors for testimony on civil rights violations. Companies face stock de-ratings as multi-year contract certainty collapses. Class action and whistleblower litigation increases.",
+      "sector_returns": {
+        "Palantir (PLTR)": -25.0,
+        "GEO Group (GEO)": -40.0,
+        "Axon (AXON)": 3.0,
+        "Thomson Reuters (TRI)": -20.0,
+        "Motorola (MSI)": -5.0,
+        "Capgemini (CAP)": 5.0
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "doc_id": "B76ACBB77990E1A57C8C5C9685280E57",
+      "headline": "Thomson Reuters faces growing pressure over US immigration work",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-16",
+      "cnum": 0,
+      "chunk_text": "Thomson Reuters sells ICE access to its investigative tool Clear, which aggregates data from a wide number of public and commercial sources. The lawsuit by Billie Little, a former senior editor, says she believed Thomson Reuters was sharing data 'in ways that violated the law' and may have been 'knowingly facilitating or contributing to unlawful conduct' by ICE. In May 2025, ICE renewed a $4.8mn contract for a 'law enforcement investigative data subscription' with 'licence plate reader data.'",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "Thomson Reuters CLEAR ICE data broker",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "CBCAAA92FBCE7EBB958597F4E9EAF328",
+      "headline": "Thomson Reuters shareholder wants ICE contract investigation",
+      "source_name": "Talking Biz News",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-16",
+      "cnum": 0,
+      "chunk_text": "A shareholder of Thomson Reuters has asked it to launch an investigation into whether its products have contributed to human rights violations with regard to the company's sale of personal data to ICE. The move follows an internal protest in which more than 200 Thomson Reuters employees sent leadership a letter expressing their concern with those contracts. Thomson Reuters fired the worker who led that effort, according to a newly filed lawsuit.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "shareholder resolution Thomson Reuters ICE human rights",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "D0C5EE0DF337D664A5580F11E5ADFF9B",
+      "headline": "FirstFT: ICE's dragnet data operation",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2025-12-09",
+      "cnum": 0,
+      "chunk_text": "DHS has amassed vast surveillance capabilities: geolocation, facial recognition, DNA testing, eye scans, spyware, licence plate cameras, credit reports and more are used to identify and pursue suspects. AI tools cross-reference datasets, while mobile apps give field agents information at their fingertips. A wide array of private corporations, from global powerhouses to niche start-ups, have secured hundreds of millions of dollars in government contracts, including AT&T, Thomson Reuters, Palantir and Clearview AI. Some have hired lobbyists with ties to the White House. This is the story of how the US government is repurposing criminal investigation tools to meet its deportation target.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "immigration enforcement $22 billion contractor revenue",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "7B82AED32C80C8494E5DE3BD684ED506",
+      "headline": "Palantir turns poisonous on the campaign trail",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-03-24",
+      "cnum": 0,
+      "chunk_text": "The company, which has won federal contracts under Republican- and Democrat-led administrations, has vigorously defended its work with ICE. In the past few months, Palantir boss Alex Karp has cheered Donald Trump's crackdown on immigration and praised the US president for 'restoring the deterrent capacity of America.' 'For people who care, Palantir is the apogee of state surveillance,' one Democratic strategist said. In primaries to select candidates for November's midterm elections, voters were 'frightened of what surveillance can be', the person added.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "midterm elections ICE reform immigration tech",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "811B017524F8626BC0B02464EA5402B8",
+      "headline": "In Trump's Washington, Palantir is winning big",
+      "source_name": "Washington Post",
+      "source_url": "",
+      "chunk_timestamp": "2025-08-01",
+      "cnum": 0,
+      "chunk_text": "Palantir's recent surge in government business has prompted unease among some employees and triggered scattered protests at company offices. Palantir's new ICE contract for tracking immigration violations and deportations has sparked impassioned discussions among company alumni, a dozen of whom wrote an open letter deeming that work a violation of the company's long-standing civil liberties principles. At least one employee has quit over the company's growing role in implementing the Trump administration's policies.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "employee backlash surveillance immigration companies",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "7E01E16D00AF257FF30AAE24A7C0F0C0",
+      "headline": "ICE amps up its surveillance powers, targeting immigrants and antifa",
+      "source_name": "Washington Post",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-17",
+      "cnum": 0,
+      "chunk_text": "Iris scanners, facial-recognition apps, phone-hacking software and cellphone location data are among the agency's recent technological purchases. ICE has been rapidly building out its surveillance capabilities, signing a string of contracts for technologies to identify individuals by their irises or facial features and to monitor their cellphone activity, social media posts and physical movements. ICE's $3.75 million order on Sept. 5 for Clearview AI's facial recognition software is the largest public purchase of the technology to date by a U.S. federal agency.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "facial recognition immigration enforcement DHS",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "AAA8D2DDFF5DEDEA727E1877C08A25FC",
+      "headline": "Capgemini to sell unit linked to US immigration tracking",
+      "source_name": "Financial Times",
+      "source_url": "",
+      "chunk_timestamp": "2026-02-01",
+      "cnum": 0,
+      "chunk_text": "A solicitation document published in November by ICE said vendors would be asked to 'verify alien address information' and 'confirm the new location of aliens' using both digital tools and 'in-person surveillance.' The Trump administration gave ICE an extra $75bn last year to pursue aggressive deportation quotas, creating lucrative opportunities for the agency's contractors. French finance minister Roland Lescure criticised Capgemini for not having sufficient oversight of its subsidiaries.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "immigration enforcement contractor backlash",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "BDE874362F0FC79C5418C79B0542FE5E",
+      "headline": "Geo Group unit awarded contract by ICE worth up to $121M",
+      "source_name": "The Fly",
+      "source_url": "",
+      "chunk_timestamp": "2025-12-22",
+      "cnum": 0,
+      "chunk_text": "The GEO Group announced that its wholly-owned subsidiary, BI Incorporated, has been awarded a contract by U.S. Immigration and Customs Enforcement for the provision of skip tracing services. Skip tracing services entail enhanced location research with identifiable information, commercial data verification, and physical observation to verify current address information and investigate alternative address information for individuals on the federal government's non-detained docket.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "GEO Group BI electronic monitoring ICE",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "9EAD8344F817CD781F79B3E57C6BDED2",
+      "headline": "Axon jumps after DHS head says ICE officers in Minneapolis to get body cameras",
+      "source_name": "The Fly",
+      "source_url": "",
+      "chunk_timestamp": "2026-02-02",
+      "cnum": 0,
+      "chunk_text": "DHS Secretary Noem said: 'Effective immediately we are deploying body cameras to every officer in the field in Minneapolis. As funding is available, the body camera program will be expanded nationwide.' Shares of Axon Enterprise, which makes body cameras, are up 4.4% in after-hours trading.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "Axon body camera DHS immigration",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "6C0186C9E906337D639E47CD795BD1EC",
+      "headline": "Harvard CAPS/Harris Poll: Trump Approval Drops Amid ICE Controversy",
+      "source_name": "Stagwell Inc.",
+      "source_url": "",
+      "chunk_timestamp": "2026-03-30",
+      "cnum": 0,
+      "chunk_text": "65% of voters oppose the shutdown of the Department of Homeland Security, including a majority across political parties. 53% blame Republicans. 64% of voters support funding non-immigration portions of DHS like TSA. 60% of voters would prefer to not provide any more funding to ICE unless it changes operations. 52% say the DHS shutdown by Democrats was a justified response to ICE actions.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "midterm elections ICE reform immigration tech",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "0CE22DAFE14CD61C7CC4ABFF2F9BD55A",
+      "headline": "Senate passes bill to fund most of DHS after House GOP caves",
+      "source_name": "Fox News",
+      "source_url": "",
+      "chunk_timestamp": "2026-04-02",
+      "cnum": 0,
+      "chunk_text": "Trump and congressional Republicans are gambling that budget reconciliation will be the way to fund immigration enforcement for several years to come. Some Republicans have floated funding ICE not just through Trump's term, but up to a decade. The party-line process comes with a host of challenges that could test Republican unity in an election year. GOP lawmakers will have to identify spending cuts to pay for it.",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "Congress DHS funding cuts immigration enforcement",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "A2E3B8443F84F73E9C09B176FAFCD644",
+      "headline": "ICE Is Mounting a Mass Surveillance Campaign on American Citizens",
+      "source_name": "AOL.com",
+      "source_url": "",
+      "chunk_timestamp": "2025-10-23",
+      "cnum": 0,
+      "chunk_text": "Backed by funding from the One Big Beautiful Bill Act passed in July, ICE has entered into contracts with companies to provide surveillance capabilities like facial recognition algorithms, an iris-scanning identification app, controversial spyware on smartphones, and a real-time smartphone location and social media tracking system. In September alone, ICE racked up $1.4 billion in new surveillance technology contracts, the highest in at least 18 years.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "ICE surveillance technology contracts federal",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "C991238CBC638C65B3BA116F2029727B",
+      "headline": "Peter Thiel's Palantir Bags $30 Million Order From ICE For Immigrant Tracking System",
+      "source_name": "Benzinga",
+      "source_url": "",
+      "chunk_timestamp": "2025-04-18",
+      "cnum": 0,
+      "chunk_text": "Palantir Technologies has signed a $29.8 million contract with the U.S. Immigration and Customs Enforcement agency to enhance its immigration enforcement tools. This new deal is an expansion of an existing agreement and concentrates on tracking visa overstays and self-deportations through a system called ImmigrationOS.",
+      "relevance": 0.5,
+      "sentiment": 0.8,
+      "search_topic": "Palantir ImmigrationOS ICE contract",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "58316AFCABB13A4679BEFA99810245E7",
+      "headline": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+      "source_name": "Wired News",
+      "source_url": "",
+      "chunk_timestamp": "2026-02-11",
+      "cnum": 0,
+      "chunk_text": "United States Customs and Border Protection plans to spend $225,000 for a year of access to Clearview AI, a face recognition tool that compares photos against billions of images scraped from the internet. Border Patrol intelligence units will gain access to the tool for 'tactical targeting.'",
+      "relevance": 0.5,
+      "sentiment": 0.0,
+      "search_topic": "Clearview AI federal government contract",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    },
+    {
+      "doc_id": "ECA31149868561080CC2423D63D16B2B",
+      "headline": "Paragon Spyware Contract With ICE Reactivated",
+      "source_name": "Forbes.com",
+      "source_url": "",
+      "chunk_timestamp": "2025-09-02",
+      "cnum": 0,
+      "chunk_text": "Paragon Solutions, a tech company implicated in an Italian spy scandal, had its $2 million contract with ICE reactivated. ICE had been ordered to put the work with Paragon on hold after the Biden administration sought to explore whether it'd breached rules on acquiring spyware. ICE may soon have access to previously banned spy tools that foreign governments have used to target journalists and political dissidents.",
+      "relevance": 0.5,
+      "sentiment": -0.8,
+      "search_topic": "Paragon spyware ICE contract reactivated",
+      "company_tags": [],
+      "source_category": "news",
+      "is_relevant": false,
+      "label_motivation": "",
+      "label_company": "",
+      "label_ticker": "",
+      "label_theme_node": ""
+    }
+  ],
+  "taxonomy": [
+    {
+      "node_id": 1,
+      "name": "Core Surveillance Technology Vendors",
+      "description": "Companies providing AI-driven identification and tracking tools originally developed for criminal investigations, now deployed for civil immigration enforcement.",
+      "subnodes": [
+        {
+          "subnode_id": 11,
+          "name": "Facial Recognition",
+          "description": "Clearview AI (ICE $9.2M, CBP $225K), Mobile Fortify app; billions of scraped internet images used for identification"
+        },
+        {
+          "subnode_id": 12,
+          "name": "Predictive Analytics / Data Fusion",
+          "description": "Palantir ImmigrationOS ($29.8M), Gotham platform \u2014 cross-references datasets to identify deportation targets"
+        },
+        {
+          "subnode_id": 13,
+          "name": "Commercial Data Brokers",
+          "description": "Thomson Reuters CLEAR ($4.8M), LexisNexis Accurint \u2014 utility bills, vehicle registrations, credit reports, license plate readers"
+        },
+        {
+          "subnode_id": 14,
+          "name": "Spyware / Phone Hacking",
+          "description": "Paragon Solutions ($2M, reactivated Sep 2025) \u2014 smartphone surveillance tool previously banned under Biden"
+        }
+      ]
+    },
+    {
+      "node_id": 2,
+      "name": "Physical Monitoring & Detention Infrastructure",
+      "description": "Companies providing electronic monitoring, skip tracing, biometric identification, and detention management for non-detained and detained immigrant populations.",
+      "subnodes": [
+        {
+          "subnode_id": 21,
+          "name": "Electronic Monitoring & Supervision",
+          "description": "GEO Group / BI Inc \u2014 ISAP contract (renewed Oct 2025, 2yr); ankle monitors, case management for 100+ offices"
+        },
+        {
+          "subnode_id": 22,
+          "name": "Skip Tracing Services",
+          "description": "GEO Group / BI Inc \u2014 $121M contract (Dec 2025); location research using identifiable information and physical observation"
+        },
+        {
+          "subnode_id": 23,
+          "name": "Body Cameras & Evidence Management",
+          "description": "Axon Enterprise \u2014 DHS nationwide body camera expansion announced Feb 2026; drone fleet, AI-powered evidence platform"
+        },
+        {
+          "subnode_id": 24,
+          "name": "Communications Infrastructure",
+          "description": "Motorola Solutions \u2014 $19M direct + $260M reseller; radio equipment for enforcement personnel"
+        }
+      ]
+    },
+    {
+      "node_id": 3,
+      "name": "Political & Legislative Risk Framework",
+      "description": "The key political dynamics that determine scenario outcomes for this contractor universe.",
+      "subnodes": [
+        {
+          "subnode_id": 31,
+          "name": "DHS Funding Mechanism",
+          "description": "Current DHS partial shutdown (50+ days); ICE separately funded via reconciliation ($75B FY2025-2028); future reconciliation requires near-total Republican unity"
+        },
+        {
+          "subnode_id": 32,
+          "name": "2026 Midterm Elections",
+          "description": "Current polling: 51% would vote Democrat, 65% oppose ICE tactics; immigration enforcement a 'defining issue' for midterms"
+        },
+        {
+          "subnode_id": 33,
+          "name": "Democratic Reform Demands",
+          "description": "Judicial warrant requirements, detention bed caps, identity protection for agents removed, inspector general oversight"
+        },
+        {
+          "subnode_id": 34,
+          "name": "Republican Counter-Narrative",
+          "description": "Crime incidents used to reinforce enforcement messaging; reconciliation path to multi-year ICE funding reduces legislative exposure"
+        }
+      ]
+    },
+    {
+      "node_id": 4,
+      "name": "ESG & Reputational Risk Vectors",
+      "description": "Channels through which immigration enforcement exposure converts to financial risk for investors.",
+      "subnodes": [
+        {
+          "subnode_id": 41,
+          "name": "Employee Activism",
+          "description": "Palantir alumni open letters; Thomson Reuters 200+ employee letter; resignations over ICE contracts"
+        },
+        {
+          "subnode_id": 42,
+          "name": "Shareholder Pressure",
+          "description": "BCGEU (Thomson Reuters shareholder) filed resolution demanding human rights assessment; board rejected Apr 2026"
+        },
+        {
+          "subnode_id": 43,
+          "name": "Legal Exposure",
+          "description": "ACLU suing ICE over warrant-free data purchases; Thomson Reuters whistleblower lawsuit Apr 2026; potential FISA reform"
+        },
+        {
+          "subnode_id": 44,
+          "name": "ESG Score Deterioration",
+          "description": "Palantir: ESG Laggard 41.3/100 (-6.0pt YoY); GEO Group: ESG Laggard 39.95/100 (-11.98pt YoY)"
+        }
+      ]
+    }
+  ]
+}
